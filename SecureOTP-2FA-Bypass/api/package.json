@@ -24,7 +24,9 @@
     "sqlite3": "^5.0.0",
     "twilio": "^3.54.1"
   },
-  "devDependencies": {},
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "overrides": {
+    "form-data": "2.5.4"
+  }
 }
